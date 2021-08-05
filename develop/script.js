@@ -21,6 +21,6 @@ function showDateTime () {
     //pulling from the dom to change running time
 
     clock.innerText = `${today} ${time}`;
-
-
 }
+
+setInterval(showDateTime, 1000);

@@ -1,0 +1,43 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },
+        {
+            "id": 2,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },
+        {
+            "id": 3,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },
+        {
+            "id": 4,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },
+        {
+            "id": 5,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },
+        {
+            "id": 6,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },
+        {
+            "id": 7,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        },{
+            "id": 8,
+            "title": "Activity 1",
+            "body": "Lorem Ipsum"
+        }
+    ]
+}
